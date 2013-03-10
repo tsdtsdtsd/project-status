@@ -1,0 +1,29 @@
+body {
+	padding-top: 80px;
+    padding-bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size:16px;
+}
+
+hr {
+	border-top: 1px solid #DDD;
+} 
+
+h1 {
+    font-size:25px;
+    clear:both;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.spacing_header {
+	padding-top:40px;
+}
+
+.navbar .brand {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}

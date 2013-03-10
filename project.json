@@ -1,0 +1,25 @@
+{
+	"projectName": "awesome website",
+	"projectPath": "project/",
+	"pagesInNewWindow": true,
+	"pages": [
+		{
+			"name": "Home",
+			"file": "home.html",
+			"priority": "High Priority",
+			"status": "In progress",
+			"icon": "time"
+		},
+		{
+			"name": "Contact",
+			"file": "contact.html",
+			"priority": "Medium Priority",
+			"status": "Finished",
+			"icon": "ok"
+		},
+		{
+			"name": "About",
+			"file": "about.html"
+		}
+	]
+}
